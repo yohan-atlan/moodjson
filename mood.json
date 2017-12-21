@@ -1,14 +1,18 @@
 {
   "result":[
     {
-      "title": "Exercice de méditation",
-      "description": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de poli",
+      "title": "Respirer une minute",
+      "instruction": "Bonne respiration.",
+      "image": "bear",
+      "description": "Vous êtes sur le point de faire une minute de respiration. Pour améliorer l’effectivité de l’exercice, asseyez-vous en tailleur et faites le vide en vous.\nEssayez de synchroniser votre rythme respiratoire aux cercles de couleur que vous allez voir.",
       "animUrl": "https://raw.githubusercontent.com/toinelin/fey-animations/master/breath.json"
     },
     {
-      "title": "Respirer une minute",
-      "description": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de poli",
-      "animUrl": "https://raw.githubusercontent.com/toinelin/fey-animations/master/breath.json"
+      "title": "Exercice de méditation",
+      "instruction": "Bonne séance.",
+      "image": "ecureuil",
+      "description": "Pour cette séance, placez vous de côté en position latérale de sécurité puis croisez vos bras contre le haut de votre torse et repliez vos jambes jusqu’au nombril.\nSuivez attentivement ma voie.",
+      "animUrl": ""
     }
   ],
   "mireille":[
